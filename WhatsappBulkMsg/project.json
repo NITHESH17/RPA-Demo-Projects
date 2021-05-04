@@ -1,0 +1,54 @@
+{
+  "name": "WhatsappBulkMsg",
+  "description": "Blank Process",
+  "main": "Sending_Messages.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "[2.8.2-preview]",
+    "UiPath.Mail.Activities": "[1.8.2-preview]",
+    "UiPath.System.Activities": "[20.3.0-preview]",
+    "UiPath.UIAutomation.Activities": "[21.2.0-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.3.0.84",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Sending_Messages.xaml",
+      "uniqueId": "ad470273-3e2b-407f-a256-d6aaaa718e41",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {}
+}

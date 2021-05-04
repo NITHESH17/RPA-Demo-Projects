@@ -1,0 +1,39 @@
+05/22/2020 19:42:35 Process Started
+05/22/2020 19:42:36 Excel Opened
+05/22/2020 19:42:36 Content Read
+05/22/2020 19:42:36 Content Set in Clipboard
+05/22/2020 19:42:36 Contacts Read
+05/22/2020 19:42:37 Browser Opened
+05/22/2020 19:42:39 Message Sending Started To 1234567890
+05/22/2020 19:42:42 Clicked Message Button
+05/22/2020 19:42:45 Clicked Use Web Whatsapp Button
+05/22/2020 19:42:51 Checking Invalid Element
+05/22/2020 19:42:51 Number Is Not Valid 
+05/22/2020 19:42:52 Clicked OK Button
+05/22/2020 19:42:52 Number Append in Invalid Contact Sheet
+05/22/2020 19:42:52 Row Count Incremented in Invalid Sheet 
+05/22/2020 19:42:52 Contact Color Chenged
+05/22/2020 19:42:52 iColor Variable Incrmented\n##########################
+05/22/2020 19:42:54 Message Sending Started To 9790047788
+05/22/2020 19:42:57 Clicked Message Button
+05/22/2020 19:43:00 Clicked Use Web Whatsapp Button
+05/22/2020 19:43:32 Checking Invalid Element
+05/22/2020 19:43:32 Number Is Valid 
+05/22/2020 19:43:32 Pasting The Content 
+05/22/2020 19:43:35 Message Sent Successfully 
+05/22/2020 19:43:35 Number Append in Valid Contact Sheet
+05/22/2020 19:43:35 Row Count Incremented in Valid Contact Sheet 
+05/22/2020 19:43:35 Contact Color Chenged
+05/22/2020 19:43:35 iColor Variable Incrmented\n##########################
+05/22/2020 19:43:37 Message Sending Started To 7598130364
+05/22/2020 19:43:40 Clicked Message Button
+05/22/2020 19:43:43 Clicked Use Web Whatsapp Button
+05/22/2020 19:44:15 Checking Invalid Element
+05/22/2020 19:44:15 Number Is Valid 
+05/22/2020 19:44:15 Pasting The Content 
+05/22/2020 19:44:18 Message Sent Successfully 
+05/22/2020 19:44:18 Number Append in Valid Contact Sheet
+05/22/2020 19:44:18 Row Count Incremented in Valid Contact Sheet 
+05/22/2020 19:44:19 Contact Color Chenged
+05/22/2020 19:44:19 iColor Variable Incrmented\n##########################
+05/22/2020 19:44:23Successfully Message Sent To All The Contacts
